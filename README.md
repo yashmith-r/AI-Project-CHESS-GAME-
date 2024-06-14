@@ -18,3 +18,7 @@ Our AI strategy includes three key functions:
 cal_valid_moves: Calculates valid moves for each piece.
 evaluation: Assesses the game state to guide the AI's decisions.
 minmax: Recursively explores moves to determine the best strategy for the AI
+
+
+![Uploading image.png…]()
+

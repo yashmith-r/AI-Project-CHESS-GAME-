@@ -19,6 +19,4 @@ cal_valid_moves: Calculates valid moves for each piece.
 evaluation: Assesses the game state to guide the AI's decisions.
 minmax: Recursively explores moves to determine the best strategy for the AI
 
-
-![Uploading image.png…]()
-
+![Screenshot (99)](https://github.com/yashmith-r/AI-Project-CHESS-GAME-/assets/114250035/a47f15fe-4e79-4e0d-bd2d-6d965d7387da)
